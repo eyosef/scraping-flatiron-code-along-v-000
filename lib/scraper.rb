@@ -26,7 +26,7 @@ class Scraper
         puts "  Description: #{course.description}"
       end #if statement
     end #each iteration
-  end
+  end #print method
 
 end
 
