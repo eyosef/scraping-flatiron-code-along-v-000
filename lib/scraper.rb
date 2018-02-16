@@ -24,8 +24,8 @@ class Scraper
         puts "Title: #{course.title}"
         puts "  Schedule: #{course.schedule}"
         puts "  Description: #{course.description}"
-      end
-    end
+      end #if statement
+    end #each iteration
   end
 
 end
